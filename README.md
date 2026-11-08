@@ -14,8 +14,8 @@ An introductory guide to Crestron DM NVX architecture, multicast, IGMP Snooping,
 - NVX源端解嵌与接收端解嵌
 
 ## 阅读文档
-完整内容请查看库中的 `Crestron NVX Architecture & AV over IP.pdf`。
-[阅读完整技术文档](<Crestron NVX Architecture & AV over IP.pdf>)
+完整内容请查看库中的 `Crestron AV over IP架构与音视频传输原理.pdf`。
+[阅读完整技术文档](<Crestron AV over IP架构与音视频传输原理.pdf>)
 
 ## 说明
 本文为个人技术学习与工程实践总结，并非Crestron官方技术文档。具体设备功能和配置要求请以官方资料为准。
